@@ -1,11 +1,13 @@
 fileFormatVersion: 2
-guid: d580edb4e47f6384aa5eb5486bff7d49
-timeCreated: 1425724548
+guid: 2050e29d9ecf211428c07cda59d77a23
+timeCreated: 1426193503
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Still_1
-    21300002: Animation_0
+    21300000: Player Idle 1
+    21300002: Player Idle 2
+    21300004: Play Animation_2
+    21300006: Player Walk 2
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -51,23 +53,43 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Still_1
+    - name: Player Idle 1
       rect:
         serializedVersion: 2
-        x: 49
-        y: 442
-        width: 43
-        height: 53
+        x: 1
+        y: 30
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Animation_0
+    - name: Player Idle 2
       rect:
         serializedVersion: 2
-        x: 2
-        y: 444
-        width: 39
-        height: 51
+        x: 15
+        y: 30
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Play Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Walk 2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
