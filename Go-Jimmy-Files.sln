@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{4D45DFA0-B844-3A93-9FC7-B3575951D249}") = "Go-Jimmy-Files", "Assembly-CSharp-firstpass.csproj", "{BBFA6347-B18B-3AD4-5458-AC501140CA18}"
 EndProject
+Project("{4D45DFA0-B844-3A93-9FC7-B3575951D249}") = "Go-Jimmy-Files", "Assembly-CSharp.csproj", "{013E72F4-CFDB-73F4-B948-22D83C3C80D0}"
+EndProject
 Project("{4D45DFA0-B844-3A93-9FC7-B3575951D249}") = "Go-Jimmy-Files", "Assembly-CSharp-Editor.csproj", "{290EB8C1-8804-F57F-124A-DE21964DF006}"
 EndProject
 Project("{4D45DFA0-B844-3A93-9FC7-B3575951D249}") = "Go-Jimmy-Files", "Assembly-UnityScript.unityproj", "{5C4CCE24-3479-92D1-94B2-9D62E14C5806}"
@@ -17,6 +19,10 @@ Global
 		{BBFA6347-B18B-3AD4-5458-AC501140CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBFA6347-B18B-3AD4-5458-AC501140CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBFA6347-B18B-3AD4-5458-AC501140CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013E72F4-CFDB-73F4-B948-22D83C3C80D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013E72F4-CFDB-73F4-B948-22D83C3C80D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013E72F4-CFDB-73F4-B948-22D83C3C80D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013E72F4-CFDB-73F4-B948-22D83C3C80D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{290EB8C1-8804-F57F-124A-DE21964DF006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{290EB8C1-8804-F57F-124A-DE21964DF006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{290EB8C1-8804-F57F-124A-DE21964DF006}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-									GlobalSection(MonoDevelopProperties) = preSolution
+															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
